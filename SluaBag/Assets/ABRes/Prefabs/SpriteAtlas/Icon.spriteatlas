@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Icon
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4c4f811f4729d0f4f9a45580f8e5039d, type: 3}
+    - {fileID: 2800000, guid: 2e620d6ef8a94014ab0e5223c760f001, type: 3}
+    - {fileID: 2800000, guid: 9da4e2b466c6e0645977d7f53d28068f, type: 3}
+    - {fileID: 2800000, guid: 1309611d7bf4ccf4a94a2f3f802a8e54, type: 3}
+    - {fileID: 2800000, guid: a5140d3a7dcd2f946b162a78f9e6d476, type: 3}
+    - {fileID: 2800000, guid: bd255eda1961c5649b79535cfcee40a0, type: 3}
+    - {fileID: 2800000, guid: ffba6ab5ff4ddaa4d8135cd80d483ec4, type: 3}
+    - {fileID: 2800000, guid: 500c387b0f218c2428127cf686b00418, type: 3}
+    - {fileID: 2800000, guid: 99a94855f86ccea4a9e13483a37726dd, type: 3}
+    - {fileID: 2800000, guid: 4dd6caeb293e81448a2ce59649709ae8, type: 3}
+    totalSpriteSurfaceArea: 67240
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1309611d7bf4ccf4a94a2f3f802a8e54, type: 3}
+  - {fileID: 21300000, guid: 2e620d6ef8a94014ab0e5223c760f001, type: 3}
+  - {fileID: 21300000, guid: 4dd6caeb293e81448a2ce59649709ae8, type: 3}
+  - {fileID: 21300000, guid: 9da4e2b466c6e0645977d7f53d28068f, type: 3}
+  - {fileID: 21300000, guid: 99a94855f86ccea4a9e13483a37726dd, type: 3}
+  - {fileID: 21300000, guid: 4c4f811f4729d0f4f9a45580f8e5039d, type: 3}
+  - {fileID: 21300000, guid: ffba6ab5ff4ddaa4d8135cd80d483ec4, type: 3}
+  - {fileID: 21300000, guid: bd255eda1961c5649b79535cfcee40a0, type: 3}
+  - {fileID: 21300000, guid: a5140d3a7dcd2f946b162a78f9e6d476, type: 3}
+  - {fileID: 21300000, guid: 500c387b0f218c2428127cf686b00418, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 4
+  - 2
+  - 10
+  - 3
+  - 9
+  - 1
+  - 7
+  - 6
+  - 5
+  - 8
+  m_Tag: Icon
+  m_IsVariant: 0

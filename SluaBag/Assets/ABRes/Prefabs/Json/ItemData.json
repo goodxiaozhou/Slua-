@@ -1,0 +1,12 @@
+[
+{"id":1,"name":"手套","icon":"ui_Icon_1","type":1,"tips":"一个手套"},
+{"id":2,"name":"弓箭","icon":"ui_Icon_2","type":1,"tips":"一把弓箭"},
+{"id":3,"name":"蓝药","icon":"ui_Icon_3","type":2,"tips":"回复魔法值"},
+{"id":4,"name":"红药","icon":"ui_Icon_4","type":2,"tips":"回复血量"},
+{"id":5,"name":"红宝石","icon":"ui_Icon_5","type":3,"tips":"红颜色的石头"},
+{"id":6,"name":"蓝宝石","icon":"ui_Icon_6","type":3,"tips":"蓝颜色的石头"},
+{"id":7,"name":"腰带","icon":"ui_Icon_7","type":1,"tips":"一个腰带"},
+{"id":8,"name":"盾牌","icon":"ui_Icon_8","type":1,"tips":"一个盾牌"},
+{"id":9,"name":"法师帽","icon":"ui_Icon_9","type":1,"tips":"麻瓜学院专属帽"},
+{"id":10,"name":"法杖","icon":"ui_Icon_10","type":1,"tips":"哈利波特专属权杖"}
+]
